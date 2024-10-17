@@ -3,21 +3,22 @@ Silver User Society -> user interface für Generation 60 +
 - sicherheit geben
 - vertrauen in technik stärken -> technik veranschaulichen (einfach erklären)
 
-Apps Websiten besser entwerfen
+Apps Websiten besser entwerfen    -> Lilli
 - seh- und hörschwächen bedenken 
   - größere schrift
   - vorlesen lassen
   - stärkere Kontraste verwenden
   - einfacher -> weniger ist mehr
+App für Silver Society
+- Größere Buttons
+- Anschließbar an z.B. Blutdruck geräte 
 
-was gibt es schon?
+was gibt es schon?               -> Simon
 - dating apps 
 - gesundheit apps
 - Spezielles Handy das einfacher zu Bedienen ist
 was braucht es noch?
 - sicher fühlen bei bezahlen 
 
-App für Silver Society
-- Größere Buttons
-- Anschließbar an z.B. Blutdruck geräte 
+
 
